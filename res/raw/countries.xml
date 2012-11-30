@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+    <country name="Belarus" abbreviation="by" region="Europe" />
+    <country name="England" abbreviation="el" region="Europe" />
+    <country name="Russia" abbreviation="ru" region="Asia" />
+    <country name="USA" abbreviation="us" region="America" />
+</countries>
